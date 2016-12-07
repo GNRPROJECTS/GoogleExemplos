@@ -61,7 +61,7 @@ public class DriveSample {
    */
   private static final String APPLICATION_NAME = "Teste1";
 
-  private static final String UPLOAD_FILE_PATH = "C:/teste2/";
+  private static final String UPLOAD_FILE_PATH = "Enter File Path";
   private static final String DIR_FOR_DOWNLOADS = "C:/Users/Adao/Desktop/receber/";
   private static final java.io.File UPLOAD_FILE = new java.io.File(UPLOAD_FILE_PATH);
 
